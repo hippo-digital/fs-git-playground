@@ -1,1 +1,1 @@
-If you can read this, your account is successfully configured!
+🎉 If you can read this, your account is successfully configured! 🎉
