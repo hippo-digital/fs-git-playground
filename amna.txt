@@ -1,8 +1,8 @@
 Q1: What is your favourite colour?
-A:
+A: Purple
 Q2: What was your first pet's name?
-A:
+A: Tango
 Q3: What is your favourite film?
-A:
+A: Jurassic Park
 Q4: What was your favourite toy as a kid?
-A:
+A: Teddy
