@@ -3,6 +3,6 @@ A:Yellow
 Q2: What was your first pet's name?
 A:
 Q3: What is your favourite film?
-A:
+A: Shawshank Redemption
 Q4: What was your favourite toy as a kid?
 A:
